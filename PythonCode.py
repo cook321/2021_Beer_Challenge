@@ -3,7 +3,6 @@ import random
 #Run this code in any python environment
 #When reading in the csv make sure to to have the correct file path to the data
 
-
 myDF = pd.read_csv(r"C:\Users\adam1\Downloads\BeerDataScienceProject\BeerDataScienceProject.csv", encoding='latin1')
 
 #1
