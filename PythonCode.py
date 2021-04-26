@@ -60,3 +60,4 @@ for b in beers:
     print(inter['beer_name'])
     
 #The 3 names of the randomly selected 5 star overall and 5 star taste beers are printed here
+#Will vary each run
